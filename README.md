@@ -36,7 +36,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 2. Run:
    ```bash
-   docker run --env-file .env musicplayer
+   docker run musicplayer
    ```
 
 ## Credits
